@@ -1,4 +1,4 @@
-# Election-Results-Analysis-
+# Election-Results-Analysis
 
 ניתוח תוצאות בחירות ספטמבר 2019, אפריל 2019 ומרץ 2020 תוך התמקדות במפלגת שס בקורס מעבדה בסטטיסטיקה 
 
